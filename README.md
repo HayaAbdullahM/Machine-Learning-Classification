@@ -35,6 +35,11 @@ jupyter notebook
 
 The dataset used (`Student Mental health.csv`) contains information on students' demographic details, academic performance, and mental health status. It includes features like gender, age, course of study, CGPA, marital status, and mental health conditions.
 
+## Dataset Information 📂
+
+The dataset can be found on Kaggle: [Healthcare Dataset](https://www.kaggle.com/datasets/shariful07/student-mental-health/data)
+
+
 ## 👥 Contributing
 
 Contributions to improve the project are welcome. Please follow the standard procedure for contributing to projects on GitHub:
@@ -44,6 +49,10 @@ Contributions to improve the project are welcome. Please follow the standard pro
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
+
+## Acknowledgements 🙏
+
+Special thanks to Kaggle and the dataset contributor for providing the Student Mental health dataset.
 
 
 
