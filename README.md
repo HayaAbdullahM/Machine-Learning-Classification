@@ -14,7 +14,7 @@ To run this project, you need Python 🐍 and several libraries including pandas
 git clone https://github.com/HayaAbdullahM/Machine-Learning-Classification.git
 
 # Navigate to the project directory
-cd student-depression-prediction
+cd Machine-Learning-Classification
 
 # Install required libraries
 pip install pandas numpy matplotlib scikit-learn seaborn
